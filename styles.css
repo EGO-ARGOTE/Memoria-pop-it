@@ -75,7 +75,7 @@ body {
     100% { transform:rotate(180deg) } }
 
 * {
-    background-color: #000000;
+    background-color: #1d1d1d;
 }
 
   h1 {
@@ -93,6 +93,11 @@ body {
     margin-left: 20px;
     color: inherit;
     letter-spacing: 4px;
+    color: white;
+    font-family: "Press Start 2p", cursive;
+  }
+
+  #round {
     color: white;
     font-family: "Press Start 2p", cursive;
   }
